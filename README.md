@@ -5,7 +5,7 @@ One of my friends is interested in numerology, and often shares "sigificant" num
 ## Features
 
 - Analyzes numbers up to a specified number of digits
-- Determines if a number is interesting based on three criteria:
+- Determines if a number is interesting based on three criteria (more to come!):
   1. Palindrome: The number reads the same forwards and backwards
   2. Straight: The number contains a sequence of consecutive ascending or descending digits
   3. Repeat: The number contains a sequence of repeated digits
@@ -15,8 +15,9 @@ One of my friends is interested in numerology, and often shares "sigificant" num
 ## Usage
 
 To run the program:
-go run main.go
-Copy
+
+`go run main.go`
+
 The output will show the percentage of interesting numbers for the specified number of digits.
 
 ## Customization
